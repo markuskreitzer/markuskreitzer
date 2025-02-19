@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on radar models, devops configurations, and dockerizing, ahem, containerizing the world!
+- 🔭 I’m currently working on AI/ML models, devops configurations, and dockerizing, ahem, containerizing the world!
 - 🌱 I’m currently learning:
-  -  Rust / golang
+  -  golang
   -  More maintainable Python
   -  Embedded C/C++
   -  How to start my own software business
