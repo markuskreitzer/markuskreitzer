@@ -2,10 +2,11 @@
 
 - 🔭 I’m currently working on AI/ML models, devops configurations, and dockerizing, ahem, containerizing the world!
 - 🌱 I’m currently learning:
-  -  golang
-  -  More maintainable Python
+  -  golang/rust
+  -  More maintainable Python architectures
   -  Embedded C/C++
   -  How to start my own software business
+  -  You can find my other work at [Nostos Labs](https://gitlab.com/nostoslabs)
 
 - 👯 I’m looking to collaborate on any open source AI/ML software where I could be of use.
 - 🤔 I’m looking for help with making free speech a thing again.
