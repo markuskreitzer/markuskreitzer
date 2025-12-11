@@ -6,7 +6,7 @@
   -  More maintainable Python architectures
   -  Embedded C/C++
   -  How to start my own software business
-  -  You can find my other work at [Nostos Labs](https://gitlab.com/nostoslabs)
+  -  You can find my other work at [Nostos Labs](https://github.com/nostoslabs)
 
 - 👯 I’m looking to collaborate on any open source AI/ML software where I could be of use.
 - 🤔 I’m looking for help with making free speech a thing again.
