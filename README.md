@@ -1,22 +1,11 @@
-### Hi there 👋
+# Markus Kreitzer
 
-- 🔭 I’m currently working on AI/ML models, devops configurations, and dockerizing, ahem, containerizing the world!
-- 🌱 I’m currently learning:
-  -  golang/rust
-  -  More maintainable Python architectures
-  -  Embedded C/C++
-  -  How to start my own software business
-  -  You can find my other work at [Nostos Labs](https://github.com/nostoslabs)
+I build AI services, developer tools, and automation for complex engineering systems.
 
-- 👯 I’m looking to collaborate on any open source AI/ML software where I could be of use.
-- 🤔 I’m looking for help with making free speech a thing again.
-- 💬 Ask me about Weston Price Foundation.
-- 📫 How to reach me: markus@kreitzer.dev
-- ⚡ Fun fact: Namibia has some of the highest sand dunes in the world (I'm not from there but I really want to go.)
+My professional work includes GitLab CI/CD and Kubernetes delivery for an 89-service system, secure container pipelines, ML evaluation workflows, and a deployment dashboard supporting approximately 20 developers. I stay hands-on with Python, Go, Java, and service integration while mentoring engineers and guiding architecture.
 
+On my workbench: [PicoScope MCP](https://github.com/markuskreitzer/picoscope_mcp), [Ryobi moisture-meter decoding](https://github.com/markuskreitzer/ryobi-moisture-meter), and acoustic monitoring for a coffee roaster. These projects connect software with real signals and physical equipment. Each repository documents its scope and limitations.
 
-<!--
-**elec3647/elec3647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am pursuing a PhD at Auburn University alongside my engineering work.
 
-
--->
+[Portfolio](https://kreitzer.dev) | [LinkedIn](https://www.linkedin.com/in/markuskreitzer/)
